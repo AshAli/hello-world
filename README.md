@@ -4,4 +4,4 @@ As stated
 
 This repo contains Hello World. Nothing special.
 
-test for VS
+Done in VS 2017 Community
